@@ -1,6 +1,3 @@
 # FirstProject
-## sljdhgoiegrg
-___
-***
-# I hate U
+This is our first team project.
 ___
